@@ -25,7 +25,7 @@ This project demonstrates how to automatically construct a knowledge graph from 
 ## Setup Instructions
 1. **Clone the Repository**
    ```sh
-   git clone https://github.com/jenilsoni-ai/Information-Extraction-Pipeline-for-constructing-Knowledge-Graphs.git
+   git clone https://github.com/thejenilsoni/Information-Extraction-Pipeline-for-constructing-Knowledge-Graphs.git
    cd Information-Extraction-Pipeline-for-constructing-Knowledge-Graphs
    ```
 2. **Install Dependencies**
